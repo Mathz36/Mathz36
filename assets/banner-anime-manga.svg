@@ -12,7 +12,7 @@
   <rect x="18" y="22" width="5" height="41" rx="2" fill="#ffffff"/>
   
   <!-- Main Title (English Manga Font) -->
-  <text x="36" y="51" fill="#ffffff" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="24" font-weight="900" letter-spacing="3">FAVORITE ANIMES & MANGAS</text>
+  <text x="36" y="51" fill="#ffffff" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="24" font-weight="900" letter-spacing="3">FAVORITE ANIMES &amp; MANGAS</text>
   
   <!-- Subtitle (Japanese Kanji) with generous spacing -->
   <text x="590" y="50" fill="#8b949e" font-family="'Noto Serif JP', 'Hiragino Mincho Pro', 'Yu Mincho', serif" font-size="16" font-weight="600" letter-spacing="3">// 好きなアニメ・漫画</text>
