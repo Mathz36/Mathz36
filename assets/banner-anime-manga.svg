@@ -14,10 +14,10 @@
   <!-- Main Title (English Manga Font) -->
   <text x="36" y="51" fill="#ffffff" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="24" font-weight="900" letter-spacing="3">FAVORITE ANIMES & MANGAS</text>
   
-  <!-- Subtitle (Japanese Kanji) -->
-  <text x="441" y="50" fill="#8b949e" font-family="'Noto Serif JP', 'Hiragino Mincho Pro', 'Yu Mincho', serif" font-size="16" font-weight="600" letter-spacing="3">// 好きなアニメ・漫画</text>
+  <!-- Subtitle (Japanese Kanji) with generous spacing -->
+  <text x="590" y="50" fill="#8b949e" font-family="'Noto Serif JP', 'Hiragino Mincho Pro', 'Yu Mincho', serif" font-size="16" font-weight="600" letter-spacing="3">// 好きなアニメ・漫画</text>
   
   <!-- Katana / Manga speed slash lines on the right -->
-  <line x1="780" y1="42" x2="960" y2="42" stroke="#ffffff" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="15 5 5 5"/>
+  <line x1="800" y1="42" x2="960" y2="42" stroke="#ffffff" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="15 5 5 5"/>
   <polygon points="965,39 973,42 965,45" fill="#ffffff" fill-opacity="0.5"/>
 </svg>
