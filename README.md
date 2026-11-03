@@ -171,9 +171,16 @@
       <img src="https://img.shields.io/badge/Node.js-%23000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Sankhya_ERP-%23000000.svg?style=for-the-badge&logoColor=white" alt="Sankhya ERP" />
+    </p>
+    <p align="center">
       <img src="https://img.shields.io/badge/Google_Gemini-%23000000.svg?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      <img src="https://img.shields.io/badge/Claude_Code-%23000000.svg?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Antigravity-%23000000.svg?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+      <img src="https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
       <img src="https://img.shields.io/badge/Vitest-%23000000.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
       <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
