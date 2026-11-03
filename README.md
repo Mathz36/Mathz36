@@ -201,22 +201,20 @@
 <tr>
   <td align="center" style="padding: 24px;">
     <p align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathz36&show_icons=true&theme=github_dark&hide_border=true" alt="Mathz36 GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mathz36&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&hide_border=false" alt="Mathz36 GitHub Stats" />
     </p>
     <br>
     <p align="center">
-      <img src="https://streak-stats.demolab.com/?user=Mathz36&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Mathz36&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&currStreakLabel=c9d1d9&dates=8b949e&hide_border=false" alt="GitHub Streak" />
     </p>
     <br>
     <p align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathz36&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mathz36&layout=compact&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
     </p>
     <br>
-    <h4>🗓️ Histórico de Contribuições</h4>
-    <img src="https://ghchart.rshah.org/ffffff/Mathz36" width="95%" alt="Gráfico de Commits do Mathz36" />
-    <br><br>
-    <h4>📈 Curva de Atividade Contínua</h4>
-    <img src="https://github-readme-activity-graph-alpha.vercel.app/graph?username=Mathz36&bg_color=0d1117&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=true" width="95%" alt="Curva de Atividade" />
+    <p align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mathz36&theme=github_dark&utcOffset=-3" alt="Horários Mais Produtivos (UTC -3)" />
+    </p>
   </td>
 </tr>
 </table>
