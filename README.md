@@ -34,7 +34,7 @@
       Sou o <b>Matheus Henrique</b>, desenvolvedor de software focado no ecossistema <b>TypeScript / JavaScript</b>, engenharia full-stack, interfaces reativas e gráficos 3D interativos com <b>Three.js</b>, além de plataformas corporativas de <b>IA Generativa & RAG Text-to-SQL</b>.
     </p>
     <p>
-      Inspirado na disciplina de <b>Vagabond</b>, na determinação inegociável de <b>One Piece</b>, na resiliência de <b>Naruto</b> e na energia frenética de <b>Dandadan</b>: cada linha de código é lapidada com rigor, cada commit é um passo de evolução técnica e cada bug é superado com consistência.
+      Inspirado na disciplina de <b>Vagabond</b>, na determinação inegociável de <b>One Piece</b>, na resiliência de <b>Naruto</b> e na energia de <b>Dandadan</b>: cada linha de código é lapidada com rigor, cada commit é um passo de evolução técnica e cada bug é superado com consistência.
     </p>
     <p>
       📍 <i>Leopoldina, Minas Gerais — Brasil</i>
@@ -97,24 +97,50 @@
   </td>
 </tr>
 <tr>
-  <td width="50%" valign="top" style="padding: 20px;">
+  <td width="64%" valign="top" style="padding: 20px;">
     <h3>📺 Animes Favoritos</h3>
-    <ul>
-      <li>🏴‍☠️ <b>One Piece</b> — <i>Eiichiro Oda</i></li>
-      <li>🍥 <b>Naruto</b> — <i>Masashi Kishimoto</i></li>
-      <li>🦉 <b>The Promised Neverland</b> — <i>Kaiu Shirai & Posuka Demizu</i></li>
-      <li>⚔️ <b>Kimetsu no Yaiba</b> — <i>Koyoharu Gotouge</i></li>
-      <li>🔥 <b>Blue Exorcist</b> — <i>Kazue Kato</i></li>
-    </ul>
+    <table cellspacing="8" cellpadding="0">
+      <tr>
+        <td align="center" valign="top">
+          <img src="assets/fav-onepiece.jpg" width="96" style="border-radius:4px; display:block;" alt="One Piece"><br/>
+          <sub><b>One Piece</b></sub>
+        </td>
+        <td align="center" valign="top">
+          <img src="assets/fav-naruto.jpg" width="96" style="border-radius:4px; display:block;" alt="Naruto"><br/>
+          <sub><b>Naruto</b></sub>
+        </td>
+        <td align="center" valign="top">
+          <img src="assets/fav-neverland.jpg" width="96" style="border-radius:4px; display:block;" alt="The Promised Neverland"><br/>
+          <sub><b>Neverland</b></sub>
+        </td>
+        <td align="center" valign="top">
+          <img src="assets/fav-kimetsu.jpg" width="96" style="border-radius:4px; display:block;" alt="Kimetsu no Yaiba"><br/>
+          <sub><b>Kimetsu</b></sub>
+        </td>
+        <td align="center" valign="top">
+          <img src="assets/fav-blueexorcist.jpg" width="96" style="border-radius:4px; display:block;" alt="Blue Exorcist"><br/>
+          <sub><b>Blue Exorcist</b></sub>
+        </td>
+      </tr>
+    </table>
   </td>
-  <td width="50%" valign="top" style="padding: 20px;">
+  <td width="36%" valign="top" style="padding: 20px;">
     <h3>📖 Mangás Favoritos</h3>
-    <ul>
-      <li>🗡️ <b>Vagabond</b> — <i>Takehiko Inoue</i></li>
-      <li>🛸 <b>Dandadan</b> — <i>Yukinobu Tatsu</i></li>
-    </ul>
+    <table cellspacing="8" cellpadding="0">
+      <tr>
+        <td align="center" valign="top">
+          <img src="assets/fav-vagabond.jpg" width="96" style="border-radius:4px; display:block;" alt="Vagabond"><br/>
+          <sub><b>Vagabond</b></sub>
+        </td>
+        <td align="center" valign="top">
+          <img src="assets/fav-dandadan.jpg" width="96" style="border-radius:4px; display:block;" alt="Dandadan"><br/>
+          <sub><b>Dandadan</b></sub>
+        </td>
+      </tr>
+    </table>
+    <br/>
     <p>
-      <i>"O traço cru a nanquim, as hachuras manuais e as jornadas de superação são as maiores referências que trago para a minha disciplina no desenvolvimento de software."</i>
+      <sub><i>"O traço cru a nanquim, as hachuras manuais e as jornadas de superação refletem a disciplina no código."</i></sub>
     </p>
   </td>
 </tr>
