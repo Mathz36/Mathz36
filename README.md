@@ -1,7 +1,7 @@
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
   <td align="center">
-    <img src="assets/musashi-vagabond.jpg" width="1000px" style="display:block; border-radius:10px; margin:0;" alt="Miyamoto Musashi - Vagabond">
+    <img src="assets/manga-header-spread.jpg" width="1000px" style="display:block; border-radius:10px; margin:0;" alt="Manga Spread (Zoro • Musashi • Naruto • Dandadan)">
   </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@
       Sou o <b>Matheus Henrique</b>, desenvolvedor de software focado no ecossistema <b>TypeScript / JavaScript</b>, engenharia full-stack, interfaces reativas e gráficos 3D interativos com <b>Three.js</b>, além de plataformas corporativas de <b>IA Generativa & RAG Text-to-SQL</b>.
     </p>
     <p>
-      Inspirado na disciplina de <b>Vagabond</b>, na determinação inegociável de <b>One Piece</b> e na resiliência de <b>Naruto</b>: cada linha de código é lapidada com rigor, cada commit é um passo de evolução técnica e cada bug é superado com consistência.
+      Inspirado na disciplina de <b>Vagabond</b>, na determinação inegociável de <b>One Piece</b>, na resiliência de <b>Naruto</b> e na energia frenética de <b>Dandadan</b>: cada linha de código é lapidada com rigor, cada commit é um passo de evolução técnica e cada bug é superado com consistência.
     </p>
     <p>
       📍 <i>Leopoldina, Minas Gerais — Brasil</i>
